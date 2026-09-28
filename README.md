@@ -6,7 +6,7 @@ You've built one of these before. The point of these three weeks is to keep that
 
 ## How the days work
 
-- **Hours:** half days, **1:00 PM – 5:00 PM ET**.
+- **Hours:** half days, **10:00 AM – 2:00 PM ET**.
 - **Zoom:** a short check-in opens the day and another closes it. The time in between is for working.
 - **Discord:** questions, blockers, and requests for a second pair of eyes go here, at any point in the day. Answers come asynchronously, so include what you ran and the full error message; that's usually enough to get an answer on the first reply.
 - **Fridays:** everyone presents their work.
